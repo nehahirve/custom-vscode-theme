@@ -1,6 +1,5 @@
-Making the VSCode theme I always wanted to have
+Making the crazy VSCode theme I always wanted to have
 
-### WIP
+### Still workin' on it.
 
-**Enjoy!**
-![alt text]('../WIP.png')
+![alt text](WIP.png)

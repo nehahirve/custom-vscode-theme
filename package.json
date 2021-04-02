@@ -1,21 +1,25 @@
 {
-    "name": "retro",
-    "displayName": "retro",
-    "description": "retro",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "retro",
-                "uiTheme": "hc-black",
-                "path": "./themes/retro-color-theme.json"
-            }
-        ]
-    }
+  "name": "retro",
+  "displayName": "retro",
+  "description": "retro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nehahirve/retro.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "retro",
+        "uiTheme": "hc-black",
+        "path": "./themes/retro-color-theme.json"
+      }
+    ]
+  }
 }
